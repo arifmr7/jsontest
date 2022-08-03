@@ -1,0 +1,28 @@
+{
+  "UserInfo": [
+    {
+      "UserId": "0",
+      "firstname": "Arif Muhammad Rizki",
+      "Surname": "MARTABAK ERWIN",
+      "PlayerDesc": "Roamer",
+      "MaxGold": "1000",
+      "Team": "Martabak Squad"
+    },
+    {
+      "UserId": "1",
+      "firstname": "Fadil Alkatiri",
+      "Surname": "MARTABAK OREO",
+      "PlayerDesc": "Midliner",
+      "MaxGold": "1200",
+      "Team": "Martabak Squad"
+    },
+    {
+      "UserId": "2",
+      "firstname": "Chandra Amin",
+      "Surname": "MARTABAK KEJU",
+      "PlayerDesc": "Jungler",
+      "MaxGold": "2200",
+      "Team": "Martabak Squad"
+    }
+  ]
+}
